@@ -1,4 +1,3 @@
-package radio;
 
 /*		Ejercicio 12
 		Pablo Barreno Kioch 14
